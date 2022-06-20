@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/budkomic/LEARNING-GIT-2/issues"
   },
-  "homepage": "https://github.com/budkomic/LEARNING-GIT-2#readme"
+  "homepage": "https://github.com/budkomic/LEARNING-GIT-2#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.10"
+  }
 }
